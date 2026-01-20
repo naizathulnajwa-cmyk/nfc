@@ -1,1 +1,1 @@
-# nfc
+# lirik asal
